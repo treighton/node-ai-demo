@@ -1,0 +1,17 @@
+{
+  "name": "01-ins_node-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "8.2.4",
+    "langchain": "^0.0.185"
+  }
+}
